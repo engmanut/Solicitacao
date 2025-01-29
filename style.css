@@ -6,13 +6,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    padding: 20px;
 
     background-image: linear-gradient(100deg,rgb(78,95, 102), rgb(30,67, 85));
   }    
    
   .login-container {
     background: #212121de;
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
     width: 350px;
