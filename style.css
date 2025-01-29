@@ -13,7 +13,6 @@ body {
   .login-container {
     background: #212121de;
     padding: 20px;
-    position:center;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
     width: 350px;
